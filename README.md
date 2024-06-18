@@ -8,8 +8,9 @@ This project is a React-based news application built using TypeScript. It allows
 I have to develop a responsive React application that displays news articles fetched from a public API. The application should allow users to filter articles based on categories and implement pagination to navigate through articles efficiently.
 
 ## Screenshots
-![React News App Screenshort-1](c:\Users\Lenovo\Pictures\Screenshots\Screenshot (673).png)
-![React News App Screenshort-2](c:\Users\Lenovo\Pictures\Screenshots\Screenshot (674).png)
+![React News App Screenshot (673)](https://github.com/sachindolase/react-news-app/assets/125812863/0bb42489-cd16-4289-b65f-c965cf0956a8)
+
+![React News App Screenshot (674)](https://github.com/sachindolase/react-news-app/assets/125812863/61fb0f06-bc46-4a9f-b1e1-67e1a50b935b)
 
 
 ## Features
